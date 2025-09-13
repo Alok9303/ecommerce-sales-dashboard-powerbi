@@ -1,1 +1,1 @@
-![Ecommerce Sales Dashboard](dashboard_screenshot.png)
+![Ecommerce Sales Dashboard]Dashboard%20Screenshot.png)
